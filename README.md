@@ -1,4 +1,4 @@
-# TimeSheetNinjaEnterprise
+# Time Sheet Ninja Enterprise
 Track time and measure productivity against any and all modules in SuiteCRM, including support cases and project tasks. Have the ability to log against multiple modules on one timesheet and log against specific modules that more than one user is working on. Built in popup timer that lets you start, pause, and end calculating time. 
 
 <img src="https://github.com/CRMExpertsNY/TimesheetNinjaEnterprise/blob/master/Docs/suitecrm_logo_large.png?raw=true" width="200">
